@@ -165,8 +165,3 @@ Esquema simplificado de cada documento:
 | 2 | Historial de movimientos de un producto | `$lookup`, `$unwind`, `$match`, `$sort`, `$project` | ¿Qué entradas/salidas tuvo un producto puntual, y quién las registró? |
 | 3 | Ranking de productos más vendidos | `$match`, `$group`, `$sort`, `$limit`, `$lookup`, `$unwind`, `$project` | ¿Cuáles son los 5 productos con más unidades vendidas? |
 | 4 | Productos con stock bajo | `$match`, `$lookup`, `$unwind`, `$sort`, `$project` | ¿Qué productos activos están por debajo del umbral de reposición? |
-
-## Uso de IA en el desarrollo
-
-_(completar — Parte 6 del parcial, va en el PDF de entrega, no acá en el
-README)_
