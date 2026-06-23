@@ -1,5 +1,3 @@
-// scripts/seed/data-categorias.js
-//
 // Carga la colección 'categorias'. No depende de ninguna otra colección,
 // por eso se carga primero.
 
