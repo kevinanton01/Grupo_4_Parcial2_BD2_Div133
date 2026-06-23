@@ -1,5 +1,3 @@
-// scripts/seed/data-usuarios.js
-//
 // Carga la colección 'usuarios'. Tampoco depende de otra colección.
 // Estos usuarios después se "embeben" como snapshot dentro de cada
 // movimiento de stock (ver data-movimientos.js).
