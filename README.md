@@ -47,7 +47,7 @@ pide la Parte 1 del parcial.
 
 ```bash
 git clone https://github.com/kevinanton01/Grupo_4_Parcial2_BD2_Div133.git
-cd parcial2
+cd Grupo_4_Parcial2_BD2_Div133
 npm install
 ```
 
