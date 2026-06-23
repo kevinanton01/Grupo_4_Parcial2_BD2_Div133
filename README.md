@@ -87,18 +87,19 @@ pregunta de negocio responde cada uno.
 ```
 parcial2/
 ├── db/
-│   └── connection.js         # módulo único de conexión a MongoDB
+│   └── connection.js                       # módulo único de conexión a MongoDB
 ├── scripts/
-│   ├── data_files/            # scripts de carga de datos de ejemplo (seed)
+│   ├── data_files/                         # scripts de carga de datos de ejemplo (seed)
 │   │   ├── data-categorias.js
 │   │   ├── data-usuarios.js
 │   │   ├── data-productos.js
 │   │   ├── data-movimientos.js
-│   │   └── 00-seed-all.js     # orquestador: corre todo en el orden correcto
+│   │   └── 00-seed-all.js                   # orquestador: corre todo en el orden correcto
 │   └── queries/
-│       └── queries.js         # los 4 aggregation pipelines en un solo script
-├── docs/
-│   └── modelo.md               # justificación detallada del modelado (Parte 2)
+│       └── queries.js                       # los 4 aggregation pipelines en un solo script
+├── docs/                                    # Imagen del diagrama DER y PDF del trabajo
+│   └── Diagrama.png                         
+|   └── Grupo_4_Parcial2_BD2_Div133.pdf 
 ├── package.json
 └── README.md
 ```
