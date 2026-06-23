@@ -1,5 +1,3 @@
-// scripts/seed/data-movimientos.js
-//
 // Carga la colección 'movimientos' (entradas y salidas de stock).
 // productoId -> REFERENCIA a productos.
 // usuario     -> EMBEBIDO como snapshot { nombre, rol } (registro histórico).
