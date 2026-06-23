@@ -1,5 +1,4 @@
-// scripts/seed/00-seed-all.js
-//
+
 // Orquestador del seed completo. Corre cada data-*.js en el orden que
 // respeta las dependencias entre colecciones.
 //
