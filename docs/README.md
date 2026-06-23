@@ -135,8 +135,7 @@ Esquema simplificado de cada documento:
 
 > Resumen rápido acá; el detalle completo (con las preguntas guía de la
 > Parte 2 del parcial: qué entidades hay, dónde se embebió y por qué, qué
-> pasaría con un modelo relacional) está en
-> [`docs/modelo.md`](./docs/modelo.md).
+> pasaría con un modelo relacional) está en el PDF general.
 
 - **`productos → categorias` es referencing**, no embedding. Una
   categoría se comparte entre muchos productos; si la embebiéramos
