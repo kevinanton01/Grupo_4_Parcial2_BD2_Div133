@@ -6,8 +6,8 @@ usuarios que operan el sistema, y ejecutar consultas agregadas reales sobre
 esos datos usando el Aggregation Pipeline de MongoDB.
 
 > Trabajo práctico — Parcial 2, Bases de Datos II, UTN Avellaneda (2026).
-> Grupo:  _4_
-> Integrantes: Kevin Antón - Perez Jonathan - Gabriel Pabon - Micael Frete - Nicolas Peralta
+> Grupo:  _4_.
+> Integrantes: Kevin Antón - Perez Jonathan - Gabriel Pabon - Micael Frete - Nicolas Peralta.
 
 ---
 
