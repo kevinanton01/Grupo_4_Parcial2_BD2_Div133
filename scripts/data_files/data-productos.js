@@ -1,5 +1,3 @@
-// scripts/seed/data-productos.js
-//
 // Carga la colección 'productos'. Depende de que 'categorias' ya esté
 // cargada: cada producto referencia su categoría por _id (categoriaId).
 
