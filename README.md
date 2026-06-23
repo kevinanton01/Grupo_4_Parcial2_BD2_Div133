@@ -32,8 +32,7 @@ Concretamente:
 
 No es una app con interfaz gráfica: es un programa de consola (CLI) pensado
 para demostrar conexión real a MongoDB, un modelo de datos relacionado entre
-colecciones, y el uso del Aggregation Pipeline — que es justamente lo que
-pide la Parte 1 del parcial.
+colecciones, y el uso del Aggregation Pipeline
 
 ## Cómo ejecutarlo
 
